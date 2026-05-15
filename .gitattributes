@@ -1,0 +1,17 @@
+* text=auto eol=lf
+
+# Keep Go files clean with LF
+*.go text eol=lf
+go.mod text eol=lf
+go.sum text eol=lf
+
+*.gitattributes text eol=lf
+*.gitignore text eol=lf
+
+*.sh text eol=lf
+
+*.md text eol=lf
+LICENSE text eol=lf
+
+*.yml text eol=lf
+*.yaml text eol=lf
